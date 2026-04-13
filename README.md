@@ -40,7 +40,7 @@ watch [this talk from EmberFest 2022](https://www.youtube.com/watch?v=zwewg2xmpU
 
 - Ember.js v4.12 or above
 - Embroider or ember-auto-import v2
-- Node.js v18 or above
+- Node.js v22.16 or above
 
 ## Installation
 
